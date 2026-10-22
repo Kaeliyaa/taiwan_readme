@@ -67,7 +67,7 @@ Biaya yang telah diinformasikan meliputi:
 | Biaya makan dan tempat tinggal                      |  Total NT$3.600 |
 | Potongan uang makan yang disebutkan secara terpisah |      NT$300–500 |
 | Tiket pesawat                                       | Belum diketahui |
-| Biaya lain-lain                                     | Belum diketahui |
+| Biaya hidup lain-lain                                     | Belum diketahui |
 
 Biaya layanan agen sebesar NT$4.000 per bulan disebutkan mencakup pengurusan visa dan dokumen-dokumen.
 
@@ -87,7 +87,7 @@ Jika mendapatkan bonus kehadiran penuh, perhitungan awalnya adalah:
 | Biaya agen dan makan/tempat tinggal |    − NT$7.600 |
 | **Sisa sebelum biaya lain**         | **NT$24.400** |
 
-Perhitungan tersebut belum memasukkan penghasilan lembur, tiket pesawat, dan biaya lain yang belum diketahui. Angka NT$24.400 bukan gaji bersih akhir dan belum tentu merupakan jumlah yang dapat ditabung setiap bulan.
+Perhitungan tersebut belum memasukkan penghasilan lembur, tiket pesawat, dan biaya kehidupan sehari-hari yang belum diketahui. Angka NT$24.400 bukan gaji bersih akhir dan belum tentu merupakan jumlah yang dapat ditabung setiap bulan.
 
 ## 7. Tempat Tinggal
 
